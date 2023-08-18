@@ -1,0 +1,14 @@
+main.c:68:6:delay_us	2
+main.c:75:6:Display_Temp	1
+main.c:84:6:Display_Rh	1
+main.c:92:6:Set_Pin_Output	1
+main.c:99:6:Set_Pin_Input	1
+main.c:106:6:DHT11_Init	1
+main.c:114:9:DHT11_CheckRespone	5
+main.c:131:9:DHT11_ReadData	7
+main.c:160:5:main	1
+main.c:228:6:SystemClock_Config	3
+main.c:274:13:MX_I2C2_Init	2
+main.c:308:13:MX_TIM10_Init	2
+main.c:339:13:MX_GPIO_Init	1
+main.c:372:6:Error_Handler	1
